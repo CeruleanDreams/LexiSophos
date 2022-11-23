@@ -1,0 +1,65 @@
+h1 {
+  text-decoration: bold;
+  text-align: center;
+  color: yellow;
+  font-size: 420%
+}
+
+h2 {
+  text-decoration: bold;
+  text-align: center;
+  color: white;
+  font-size: 150%
+}
+
+h2.bot {
+  text-decoration: italic;
+  text-align: center;
+  color: yellow;
+  font-size: 170%
+}
+
+h3 {
+  text-decoration: underline;
+  text-align: center;
+  color: black;
+  font-size: 160%
+}
+
+h3.image {
+  text-align: center;
+}
+
+p {
+   text-align: center;
+   color: black;
+   font-size: 130%;
+}
+
+p.exo {
+   text-align: center;
+   color: black;
+   font-size: 130%;
+   text-decoration: underline;
+ }
+ 
+ p.upd {
+   text-align: right;
+   color: black;
+   font-size: 115%;
+   text-decoration: bold;
+ }
+
+p.home {
+   text-align: left;
+   color: white;
+   font-size: 130%;
+}
+
+li {
+   text-align: center;
+   color: black;
+   font-size: 130%;
+}
+
+
